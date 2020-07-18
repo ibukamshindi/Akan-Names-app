@@ -7,10 +7,11 @@ This is a  web application that takes a user's birthday and calculates the day o
 * The project made was created using
 * HTML
 * CSS
+* JavaScript
 ## Known Bugs
 At the moment there are no known issues.
 ## Technologies Used
-The project made use of an online IDE to check that scripts would run.
+The project made use of an online IDE to check that scripts would run and output the user's Akan name.
 ## Support and contact details
 If you want to contact me reach me at 123@gmail.com
 ### License
