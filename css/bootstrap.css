@@ -4784,6 +4784,9 @@ input[type="button"].btn-block {
 
 .card-title {
   margin-bottom: 0.75rem;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 .card-subtitle {
@@ -4793,6 +4796,7 @@ input[type="button"].btn-block {
 
 .card-text:last-child {
   margin-bottom: 0;
+  text-align: justify;
 }
 
 .card-link:hover {
