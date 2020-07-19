@@ -19,7 +19,7 @@ At the moment there are no known issues.
 The project made use of an online IDE to check that scripts would run and output the user's Akan name.
 ## Support and contact details
 If you want to contact me reach me at 123@gmail.com
-## Link to live site:
+## Link to live site:https://ibukamshindi.github.io/Akan-Names-app/
 ### License
 MIT License
 Copyright (c) 2020 Ibukamshindi
