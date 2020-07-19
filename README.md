@@ -8,6 +8,11 @@ This is a  web application that takes a user's birthday and calculates the day o
 * HTML
 * CSS
 * JavaScript
+## BDD
+The application should check whether the date and month entered is valid. if either of them is invalid,  
+the user should be alerted and asked to enter a valid one. 
+The application should dispaly error message if gender is not chosen.
+The application should output to the user their Akan name depending on their gender.
 ## Known Bugs
 At the moment there are no known issues.
 ## Technologies Used
