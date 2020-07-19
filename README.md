@@ -16,7 +16,7 @@ The application should output to the user their Akan name depending on their gen
 ## Known Bugs
 At the moment there are no known issues.
 ## Technologies Used
-The project made use of an online IDE to check that scripts would run and output the user's Akan name.
+The project made use of an online IDE to check that scripts would run and output the user's Akan name.The IDE used was JSFiddle.
 ## Support and contact details
 If you want to contact me reach me at 123@gmail.com
 ## Link to live site:https://ibukamshindi.github.io/Akan-Names-app/
