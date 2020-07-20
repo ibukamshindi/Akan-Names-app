@@ -20,9 +20,8 @@ The project made use of an online IDE to check that scripts would run and output
 ## Support and contact details
 If you want to contact me reach me at 123@gmail.com
 ## Link to live site:https://ibukamshindi.github.io/Akan-Names-app/
-### License
-MIT License
-Copyright (c) 2020 Ibukamshindi
+## License
+### MIT LicenseCopyright (c) 2020 Ibukamshindi
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
